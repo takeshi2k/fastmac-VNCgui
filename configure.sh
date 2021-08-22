@@ -26,9 +26,10 @@ sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resourc
 sudo /System/Library/CoreServices/RemoteManagement/ARDAgent.app/Contents/Resources/kickstart -activate
 
 #install ngrok
-brew cask install ngrok
+#brew cask install ngrok
+brew install ngrok
 
-#brew install XXXXXX
+#brew install aria2 annie croc duf dust tmate
 #brew install XXXXXX
 #brew install XXXXXX
 #brew install XXXXXX
